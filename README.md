@@ -1,4 +1,3 @@
-# Electric-Vehicle-Market-Segmentation
 # Electric Vehicle Market Segmentation in India
 This repository presents an in-depth segmentation analysis of the Electric Vehicle (EV) market in India, with a focus on the two-wheeler segment. The analysis leverages multiple datasets to provide insights into vehicle specifications, market trends, and consumer preferences to help a startup identify key market segments.
 
